@@ -36,4 +36,7 @@
     ![Snake animation](https://github.com/marciovinicius1/marciovinicius1/blob/output/github-contribution-grid-snake.svg)
 
   
+  
+  
+  
 
