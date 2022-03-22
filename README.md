@@ -1,4 +1,4 @@
-<div align="center" style="display: inline_block" di>
+<div align="center" style="display: flex" di>
   <a href="https://github.com/marciovincius1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marciovinicius1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciovinicius1&layout=compact&langs_count=7&theme=dracula"/>
