@@ -1,8 +1,15 @@
-
+<img src="https://cdn.discordapp.com/attachments/925754846726991902/955634231692906566/wpp1.png" />
+<div align="center" >
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Marcio vincícius</h1>
+💻 Programming student and content creator 💻 </br>
+⚡ I Never Stop Learning. ⚡
+</div>
+</br>
+</br>
 <div align="center" style="display: flex">
   <a href="https://github.com/marciovincius1">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=marciovinicius1&show_icons=true&icon_color=FFD93D&theme=darcula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciovinicius1&layout=compact&langs_count=7&theme=darcula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marciovinicius1&show_icons=true&icon_color=FFD93D&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="183em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciovinicius1&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
