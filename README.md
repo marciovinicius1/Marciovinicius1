@@ -1,8 +1,8 @@
 <img src="https://cdn.discordapp.com/attachments/498643706178568214/1019603822030622730/BANNER.png" />
 <div align="center" >
 <h1 align="center">Hi, I'm Marcio vincícius</h1>
-⭐ Front-end Developer | React.js Especialist & Content creator ⭐ </br>
-⚡ I Never Stop Learning. ⚡
+⭐ Software Developer | React.js Especialist & Content creator ⭐ </br>
+⚡ Developing performatics aplications. ⚡
 </div>
 </br>
 </br>
