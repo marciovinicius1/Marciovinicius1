@@ -9,7 +9,7 @@
 <div align="center">
   <a href="https://github.com/marciovincius1">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Marciovinicius1&show_icons=true&icon_color=FFD93D&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="163em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marciovinicius1&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Marciovinicius1&show_icons=true)
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
