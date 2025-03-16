@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/498643706178568214/1019603822030622730/BANNER.png" />
+
 <div align="center" >
 <h1 align="center">Hi, I'm Marcio vincícius</h1>
 ⭐ Software Engineer & Life time student  ⭐ </br>
