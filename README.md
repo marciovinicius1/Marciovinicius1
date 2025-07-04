@@ -21,7 +21,7 @@ Mouse: Ninjustu Sora, Razer Viper V3 Pro. <br>
 Editor: Jetbrains ToolBox to all tech stuff. <br>
 Top 3 Manga or Anime: Vagabound (Manga), One Piece (Anime), Hunter x Hunter (Anime). <br>
 
-### The vibe 🍃
+### Following the Path of the Code 🍃
 ![vagabound](./vagabound.png)
 
 
