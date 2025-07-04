@@ -22,7 +22,7 @@ Editor: Jetbrains ToolBox to all tech stuff. <br>
 Top 3 Manga or Anime: Vagabound (Manga), One Piece (Anime), Hunter x Hunter (Anime). <br>
 
 ### The vibe 🍃
-![YA](./img.gif)
+![YA](./img.png)
 
 
 
