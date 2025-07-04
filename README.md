@@ -12,7 +12,7 @@ Lately, I’ve been all about system programming, tool development, and network 
 Right now, I’m working as a Fullstack Developer at [Exitlag](exitlag.com) — a platform that boosts game performance and connection using AI.
 
 ### What I'm hacking on
-Aside from my day-to-day work as a developer, my main focus right now is learning and leveling up.
+Aside from my day-to-day work as a developer, my main focus right now is learning and leveling up.<br>
 I’m planning to start sharing more of what I’ve been building and documenting my journey as a developer soon.
 
 ### Nerd Corner
