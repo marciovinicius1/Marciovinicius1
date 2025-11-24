@@ -19,7 +19,7 @@ Lately, I’ve been all about system programming, tool development, and network 
 ### Nerd Corner
 Keyboards: Keychron K3 Pro Wireless with Gateron Red V2, Akko 5075B Plus with Akko Pink Gold V2 switches, Lily58 Custom Keyboard with Akko Lavanda Pro v3 switches and acrilic custom case. <br>
 Mouse: Ninjustu Sora, Razer Viper V3 Pro. <br>
-Editor: Jetbrains ToolBox to all tech stuff. <br>
+Editor: Zed with vim mode. <br>
 Top 5 Manga: Vagabound, One Piece, Hunter x Hunter, Fullmetal Alchemist: Brotherhood, Frieren. <br>
 
 ### Following the Path of the Code 🍃
